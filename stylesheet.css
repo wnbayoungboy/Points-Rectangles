@@ -6,30 +6,30 @@ Overall document style
 @import url('resources/fonts/dejavu.css');
 
 body {
-    background-color:#ffffff;
-    color:#353833;
+    background-color:#1F600E;
+    color:#238534;
     font-family:'DejaVu Sans', Arial, Helvetica, sans-serif;
     font-size:14px;
     margin:0;
 }
 a:link, a:visited {
     text-decoration:none;
-    color:#4A6782;
+    color:#a3ffbc;
 }
 a:hover, a:focus {
     text-decoration:none;
-    color:#bb7a2a;
+    color:#857935;
 }
 a:active {
     text-decoration:none;
-    color:#4A6782;
+    color:#6e2f5b;
 }
 a[name] {
-    color:#353833;
+    color:#5c3502;
 }
 a[name]:hover {
     text-decoration:none;
-    color:#353833;
+    color:#507d38;
 }
 pre {
     font-family:'DejaVu Sans Mono', monospace;
@@ -97,15 +97,15 @@ Document title and Copyright styles
     margin-left:.5em;
 }
 .bar a, .bar a:link, .bar a:visited, .bar a:active {
-    color:#FFFFFF;
+    color:#b691ed;
     text-decoration:none;
 }
 .bar a:hover, .bar a:focus {
-    color:#bb7a2a;
+    color:#275e19;
 }
 .tab {
     background-color:#0066FF;
-    color:#ffffff;
+    color:#850c2a;
     padding:8px;
     width:5em;
     font-weight:bold;
